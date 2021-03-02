@@ -1,8 +1,20 @@
-let elem = document.body.firstElementChild;
+"use strict"
 
-let elemUl = document.body.children[1];
+setInterval(() => {
+  alert("dsf")
+}, interval);
 
-let elemLi = elemUl.children[1];
 
+let babv = ss;
 
-let str = "Жопа"
+let sdf = p;
+
+let b = sdf;
+
+alert()
+
+sdf = "dsf"
+
+babv++
+
+babv--
